@@ -1,0 +1,11 @@
+# Temp / OS files
+Temp/
+*.tmp
+*.log
+
+# Unity (if applicable)
+Library/
+Obj/
+Build/
+Builds/
+Logs/
