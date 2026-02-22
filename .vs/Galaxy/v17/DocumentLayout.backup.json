@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "D:\\Galaxy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|d:\\galaxy\\assets\\scripts\\gamescenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\scripts\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|d:\\galaxy\\assets\\3rd party assets\\voice lines\\voice lines text file.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\3rd party assets\\voice lines\\voice lines text file.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|d:\\galaxy\\assets\\scripts\\dialoguelines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\scripts\\dialoguelines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguelines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\scripts\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +42,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "GameSceneManager.cs",
+              "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\GameSceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameSceneManager.cs",
+              "ToolTip": "D:\\Galaxy\\Assets\\Scripts\\GameSceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameSceneManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T12:33:46.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DialogueLines.cs",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\DialogueLines.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueLines.cs",
@@ -50,12 +71,11 @@
               "RelativeToolTip": "Assets\\Scripts\\DialogueLines.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T17:08:07.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T17:08:07.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Voice Lines Text File.txt",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\3rd party assets\\Voice Lines\\Voice Lines Text File.txt",
               "RelativeDocumentMoniker": "Assets\\3rd party assets\\Voice Lines\\Voice Lines Text File.txt",
@@ -67,12 +87,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Enemy.cs",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Scoreboard.cs",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\Scoreboard.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Scoreboard.cs",
@@ -96,19 +112,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "CollisionHandler.cs",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\CollisionHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CollisionHandler.cs",
               "ToolTip": "D:\\Galaxy\\Assets\\Scripts\\CollisionHandler.cs",
               "RelativeToolTip": "Assets\\Scripts\\CollisionHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T11:36:44.343Z"
+              "WhenOpened": "2026-02-11T11:36:44.343Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerWeapon.cs",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\PlayerWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerWeapon.cs",
@@ -120,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
