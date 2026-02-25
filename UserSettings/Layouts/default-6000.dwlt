@@ -1339,7 +1339,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 182.75233, y: 76.45691, z: 197.49573}
+    m_Target: {x: 177.88719, y: 80.28634, z: 297.85205}
     speed: 2
     m_Value: {x: 182.75233, y: 76.45691, z: 197.49573}
   m_RenderMode: 0
@@ -1387,7 +1387,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.11850439, y: 0.7471345, z: -0.13850884, w: -0.6391988}
+    m_Target: {x: -0.15999785, y: 0.62203395, z: -0.13180476, w: -0.75505936}
     speed: 2
     m_Value: {x: -0.11850439, y: 0.7471345, z: -0.13850884, w: -0.63919884}
   m_Size:
@@ -1467,7 +1467,7 @@ MonoBehaviour:
     m_DynamicPanelBehavior: 0
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 60}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: []
       m_LastClickedID:
         m_Data: 0
@@ -1576,10 +1576,10 @@ MonoBehaviour:
       m_Data: 72264
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 55846
-    - m_Data: 55848
-    - m_Data: 55850
-    - m_Data: 55852
+    - m_Data: 57904
+    - m_Data: 57906
+    - m_Data: 57908
+    - m_Data: 57910
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1612,10 +1612,10 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 55846
-    - m_Data: 55848
-    - m_Data: 55850
-    - m_Data: 55852
+    - m_Data: 57904
+    - m_Data: 57906
+    - m_Data: 57908
+    - m_Data: 57910
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
