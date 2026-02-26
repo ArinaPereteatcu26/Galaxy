@@ -3,6 +3,8 @@
 A cinematic 3D space shooter built in **Unity**, where the player pilots a spaceship through a dangerous part of the galaxy, fights waves of enemy ships, 
 receives backup from General Nick, defeats the Big Boss, and finally reaches the Mother Ship.
 
+Available at: https://play.unity.com/en/games/e3f9f613-606c-4ada-9237-56b3e1003083/galaxy-assault
+
 ---
 
 ## Game Overview
