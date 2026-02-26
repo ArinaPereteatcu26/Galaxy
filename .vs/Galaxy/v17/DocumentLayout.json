@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Galaxy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|d:\\galaxy\\assets\\scripts\\gamescenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|d:\\galaxy\\assets\\scripts\\mothership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mothership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\scripts\\playerweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,6 +15,14 @@
       "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\scripts\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\3rd party assets\\voice lines\\voice lines text file.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\3rd party assets\\voice lines\\voice lines text file.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -31,16 +31,16 @@
       "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguelines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|d:\\galaxy\\assets\\scripts\\gamescenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\scripts\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|D:\\Galaxy\\assets\\scripts\\mothership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8CA022-085A-EDDE-90DB-8F0818B069B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mothership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,15 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "MotherShip.cs",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\MotherShip.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MotherShip.cs",
@@ -70,12 +66,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "MusicPlayer.cs",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\MusicPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MusicPlayer.cs",
@@ -83,17 +75,18 @@
               "RelativeToolTip": "Assets\\Scripts\\MusicPlayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T17:25:12.494Z"
+              "WhenOpened": "2026-02-22T17:25:12.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "GameSceneManager.cs",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\GameSceneManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameSceneManager.cs",
               "ToolTip": "D:\\Galaxy\\Assets\\Scripts\\GameSceneManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameSceneManager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-22T12:33:46.978Z",
               "EditorCaption": ""
@@ -108,7 +101,8 @@
               "RelativeToolTip": "Assets\\Scripts\\DialogueLines.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T17:08:07.974Z"
+              "WhenOpened": "2026-02-19T17:08:07.974Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -120,11 +114,12 @@
               "RelativeToolTip": "Assets\\3rd party assets\\Voice Lines\\Voice Lines Text File.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-02-19T16:56:54.963Z"
+              "WhenOpened": "2026-02-19T16:56:54.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Enemy.cs",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
@@ -132,11 +127,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T12:08:13.817Z"
+              "WhenOpened": "2026-02-11T12:08:13.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Scoreboard.cs",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\Scoreboard.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Scoreboard.cs",
@@ -144,11 +140,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Scoreboard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T08:46:44.164Z"
+              "WhenOpened": "2026-02-15T08:46:44.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CollisionHandler.cs",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\CollisionHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CollisionHandler.cs",
@@ -156,31 +153,38 @@
               "RelativeToolTip": "Assets\\Scripts\\CollisionHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T11:36:44.343Z"
+              "WhenOpened": "2026-02-11T11:36:44.343Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PlayerWeapon.cs",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\PlayerWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerWeapon.cs",
               "ToolTip": "D:\\Galaxy\\Assets\\Scripts\\PlayerWeapon.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerWeapon.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T10:03:33.75Z"
+              "WhenOpened": "2026-02-09T10:03:33.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\Galaxy\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
               "ToolTip": "D:\\Galaxy\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T20:36:58.01Z"
+              "WhenOpened": "2026-01-27T20:36:58.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
