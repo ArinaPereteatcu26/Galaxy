@@ -5,53 +5,56 @@ receives backup from General Nick, defeats the Big Boss, and finally reaches the
 
 ---
 
-## 🎮 Game Overview
+## Game Overview
 
 In *Galaxy Assault*, the player controls a spaceship navigating through hostile territory. 
 Enemy ships attack in increasingly difficult waves. At a critical moment, General Nick arrives to support the player.
+<img width="828" height="476" alt="Screenshot 2026-02-26 154118" src="https://github.com/user-attachments/assets/0545e852-17cd-4039-92c5-eaa0956845fc" />
 
 The mission ends with an epic battle against the Big Boss ship. After defeating it, the player successfully reaches the Mother Ship.
 
 ---
 
-## 🛠 Features & Systems Implemented
-
-### 🌍 Environment & Visual Design
+## Features & Systems Implemented
 - Unity **Terrain Tools** used to create terrain
 - Trees and environmental elements placed manually
 - Custom lighting and rendering adjustments to simulate a galaxy atmosphere
 
-### 🎬 Cinematics & Timeline
+### Cinematics & Timeline
 - **Master Timeline** used to animate the player ship
 - Control Tracks used to trigger and manage enemy waves
 - Cinematic event: General Nick arrival sequence
 
-### 🎮 Player Controls
+<img width="1628" height="830" alt="Screenshot 2026-02-26 154153" src="https://github.com/user-attachments/assets/475f8bfa-647e-4e0a-b8ba-581115491dbb" />
+
+### Player Controls
 Implemented using Unity’s **Input Action Map**:
 
 - `W` `A` `S` `D` → Move spaceship
 - `Left Mouse Click` → Fire lasers
 
-### 🔫 Combat System
+### Combat System
 - **Particle System** used to create player laser weapons
 - Collision detection for:
   - Laser hitting enemy ships
   - Enemy ships colliding with the player
 - Trigger-based enemy destruction logic
-  
-### 🔊 Audio System
+
+<img width="1547" height="844" alt="Screenshot 2026-02-26 154132" src="https://github.com/user-attachments/assets/e9dbeecf-592f-4306-ae27-d9bb60817367" />
+
+### Audio System
 - Background music for immersive gameplay
 - Sound effects for:
   - Laser shooting
   - Explosions
   - Combat interactions
     
-### 🧮 Score System
+### Score System
 - UI Scoreboard implemented
 - Points awarded for destroying enemy ships
 - Real-time score updates during gameplay
 
-### 💡 Additional Mechanics
+### Additional Mechanics
 - Enemy wave spawning
 - Boss fight logic
 - Trigger-based progression events
@@ -59,7 +62,7 @@ Implemented using Unity’s **Input Action Map**:
 
 ---
 
-## 🎯 Game Objective
+## Game Objective
 
 1. Survive enemy waves  
 2. Receive help from General Nick  
@@ -68,7 +71,7 @@ Implemented using Unity’s **Input Action Map**:
 
 ---
 
-## 🖥 Controls
+## Controls
 
 | Action        | Key |
 |--------------|-----|
@@ -77,7 +80,7 @@ Implemented using Unity’s **Input Action Map**:
 
 ---
 
-## 🧑‍💻 Built With
+## Built With
 
 - Unity
 - C#
@@ -88,7 +91,7 @@ Implemented using Unity’s **Input Action Map**:
 
 ---
 
-## 🚀 Possible Future Improvements
+## Possible Future Improvements
 
 - Add health system and UI
 - Implement power-ups
@@ -97,6 +100,6 @@ Implemented using Unity’s **Input Action Map**:
 
 ---
 
-## 👩‍🚀 Author
+## Author
 
 Developed by Pereteatcu Arina
